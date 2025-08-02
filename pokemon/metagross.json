@@ -1,0 +1,20 @@
+{
+  "type1": "Steel",
+  "type2": "Psychic",
+  "moves": [
+    "Confusion",
+    "Scary Face",
+    "Iron Defence",
+    "Bullet Punch",
+    "Agility",
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 80,
+    "attack": 135,
+    "defence": 130,
+    "sp-attack": 95,
+    "sp-defence": 90,
+    "speed": 70
+  }
+}

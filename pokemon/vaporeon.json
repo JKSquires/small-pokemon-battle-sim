@@ -1,0 +1,24 @@
+{
+  "type1": "Water",
+  "type2": "None",
+  "moves": [
+    "Tackle",
+    "Tail Whip",
+    "Sand-Attack",
+    "Water Gun",
+    "Quick Attack",
+    "Aurora Beam",
+    "Acid Armor",
+    "Hydro Pump",
+    "Growl",
+    "Bite"
+  ],
+  "stats": {
+    "hp": 130,
+    "attack": 65,
+    "defence": 60,
+    "sp-attack": 110,
+    "sp-defence": 95,
+    "speed": 65
+  }
+}

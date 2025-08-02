@@ -1,0 +1,18 @@
+{
+  "type1": "Grass",
+  "type2": "None",
+  "moves": [
+    "Defence Curl",
+    "Growth",
+    "Magical Leaf",
+    "Energy Ball"
+  ],
+  "stats": {
+    "hp": 100,
+    "attack": 100,
+    "defence": 100,
+    "sp-attack": 100,
+    "sp-defence": 100,
+    "speed": 100
+  }
+}

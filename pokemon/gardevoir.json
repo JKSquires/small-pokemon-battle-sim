@@ -1,0 +1,21 @@
+{
+  "type1": "Psychic",
+  "type2": "Fairy",
+  "moves": [
+    "Moonblast",
+    "Growl",
+    "Confusion",
+    "Disarming Voice",
+    "Magical Leaf",
+    "Calm Mind",
+    "Psychic"
+  ],
+  "stats": {
+    "hp": 68,
+    "attack": 65,
+    "defence": 65,
+    "sp-attack": 125,
+    "sp-defence": 115,
+    "speed": 80
+  }
+}

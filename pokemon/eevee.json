@@ -1,0 +1,20 @@
+{
+  "type1": "Normal",
+  "type2": "None",
+  "moves": [
+    "Tackle",
+    "Tail Whip",
+    "Sand-Attack",
+    "Growl",
+    "Quick Attack",
+    "Bite"
+  ],
+  "stats": {
+    "hp": 55,
+    "attack": 55,
+    "defence": 50,
+    "sp-attack": 45,
+    "sp-defence": 65,
+    "speed": 55
+  }
+}

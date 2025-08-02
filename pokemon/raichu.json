@@ -1,0 +1,21 @@
+{
+  "type1": "Electric",
+  "type2": "None",
+  "moves": [
+    "Thunder Shock",
+    "Growl",
+    "Tail Whip",
+    "Quick Attack",
+    "Slam",
+    "Thunderbolt",
+    "Thunder"
+  ],
+  "stats": {
+    "hp": 60,
+    "attack": 90,
+    "defence": 55,
+    "sp-attack": 90,
+    "sp-defence": 80,
+    "speed": 110
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type1": "Grass",
+  "type2": "None",
+  "moves": [
+    "Tackle",
+    "Tail Whip",
+    "Sand-Attack",
+    "Razor Leaf",
+    "Quick Attack",
+    "Leaf Blade",
+    "Swords Dance",
+    "Growl",
+    "Bite"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 110,
+    "defence": 130,
+    "sp-attack": 60,
+    "sp-defence": 65,
+    "speed": 95
+  }
+}

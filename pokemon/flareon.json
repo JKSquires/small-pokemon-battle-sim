@@ -1,0 +1,23 @@
+{
+  "type1": "Fire",
+  "type2": "None",
+  "moves": [
+    "Tackle",
+    "Tail Whip",
+    "Sand-Attack",
+    "Ember",
+    "Quick Attack",
+    "Flamethrower",
+    "Smog",
+    "Growl",
+    "Bite"
+  ],
+  "stats": {
+    "hp": 65,
+    "attack": 130,
+    "defence": 60,
+    "sp-attack": 95,
+    "sp-defence": 110,
+    "speed": 65
+  }
+}

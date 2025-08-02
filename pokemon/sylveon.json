@@ -1,0 +1,24 @@
+{
+  "type1": "Fairy",
+  "type2": "None",
+  "moves": [
+    "Disarming Voice",
+    "Tackle",
+    "Tail Whip",
+    "Sand-Attack",
+    "Fairy Wind",
+    "Quick Attack",
+    "Swift",
+    "Moonblast",
+    "Growl",
+    "Bite"
+  ],
+  "stats": {
+    "hp": 95,
+    "attack": 65,
+    "defence": 65,
+    "sp-attack": 110,
+    "sp-defence": 130,
+    "speed": 60
+  }
+}

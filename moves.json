@@ -1,0 +1,579 @@
+{
+  "Tackle": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 35,
+    "priority": 0,
+    "effects": {}
+  },
+  "Tail Whip": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "defence": {
+          "chance": 100,
+          "amount": -1
+        }
+      }
+    }
+  },
+  "Sand-Attack": {
+    "type": "Ground",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "accuracy": {
+          "chance": 100,
+          "amount": -1
+        }
+      }
+    }
+  },
+  "Growl": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 40,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "attack": {
+          "chance": 100,
+          "amount": -1
+        }
+      }
+    }
+  },
+  "Quick Attack": {
+    "type": "Normal",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "effects": {}
+  },
+  "Bite": {
+    "type": "Dark",
+    "power": 60,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "effects": {}
+  },
+  "Take Down": {
+    "type": "Normal",
+    "power": 90,
+    "accuracy": 85,
+    "pp": 20,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "hp": {
+          "chance": 100,
+          "percent-delt": -25
+        }
+      }
+    }
+  },
+  "Razor Leaf": {
+    "type": "Grass",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 25,
+    "priority": 0,
+    "effects": {}
+  },
+  "Synthesis": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": -1,
+    "pp": 5,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "hp": {
+          "chance": 100,
+          "percent-all": 25
+        }
+      }
+    }
+  },
+  "Giga Drain": {
+    "type": "Grass",
+    "power": 75,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "hp": {
+          "chance": 100,
+          "percent-delt": 65
+        }
+      }
+    }
+  },
+  "Grass Whistle": {
+    "type": "Grass",
+    "power": 0,
+    "accuracy": 55,
+    "pp": 15,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "sleep": {
+          "chance": 100
+        }
+      }
+    }
+  },
+  "Leaf Blade": {
+    "type": "Grass",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "effects": {}
+  },
+  "Swords Dance": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": -1,
+    "pp": 20,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "attack": {
+          "chance": 100,
+          "amount": 2
+        }
+      }
+    }
+  },
+  "Water Gun": {
+    "type": "Water",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "effects": {}
+  },
+  "Aurora Beam": {
+    "type": "Ice",
+    "power": 65,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "attack": {
+          "chance": 10,
+          "amount": -1
+        }
+      }
+    }
+  },
+  "Acid Armor": {
+    "type": "Poison",
+    "power": 0,
+    "accuracy": -1,
+    "pp": 20,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "defence": {
+          "chance": 100,
+          "amount": 2
+        }
+      }
+    }
+  },
+  "Hydro Pump": {
+    "type": "Water",
+    "power": 110,
+    "accuracy": 80,
+    "pp": 5,
+    "priority": 0,
+    "effects": {}
+  },
+  "Ember": {
+    "type": "Fire",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "burn": {
+          "chance": 10
+        }
+      }
+    }
+  },
+  "Smog": {
+    "type": "Poison",
+    "power": 20,
+    "accuracy": 70,
+    "pp": 20,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "poison": {
+          "chance": 40,
+          "bad": false
+        }
+      }
+    }
+  },
+  "Flamethrower": {
+    "type": "Fire",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "burn": {
+          "chance": 10
+        }
+      }
+    }
+  },
+  "Thunder Shock": {
+    "type": "Electric",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "paralysis": {
+          "chance": 10
+        }
+      }
+    }
+  },
+  "Slam": {
+    "type": "Normal",
+    "power": 80,
+    "accuracy": 75,
+    "pp": 20,
+    "priority": 0,
+    "effects": {}
+  },
+  "Thunderbolt": {
+    "type": "Electric",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "paralysis": {
+          "chance": 10
+        }
+      }
+    }
+  },
+  "Thunder Wave": {
+    "type": "Electric",
+    "power": 0,
+    "accuracy": 90,
+    "pp": 20,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "paralysis": {
+          "chance": 100
+        }
+      }
+    }
+  },
+  "Thunder": {
+    "type": "Electric",
+    "power": 110,
+    "accuracy": 70,
+    "pp": 10,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "paralysis": {
+          "chance": 10
+        }
+      }
+    }
+  },
+  "Defence Curl": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": -1,
+    "pp": 40,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "defence": {
+          "chance": 100,
+          "amount": 1
+        }
+      }
+    }
+  },
+  "Growth": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": -1,
+    "pp": 20,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "sp-attack": {
+          "chance": 100,
+          "amount": 1
+        }
+      }
+    }
+  },
+  "Magical Leaf": {
+    "type": "Grass",
+    "power": 60,
+    "accuracy": -1,
+    "pp": 20,
+    "priority": 0,
+    "effects": {}
+  },
+  "Energy Ball": {
+    "type": "Grass",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "sp-defence": {
+          "chance": 10,
+          "amount": -1
+        }
+      }
+    }
+  },
+  "Confusion": {
+    "type": "Psychic",
+    "power": 50,
+    "accuracy": 100,
+    "pp": 25,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "confusion": {
+          "chance": 10
+        }
+      }
+    }
+  },
+  "Scary Face": {
+    "type": "Normal",
+    "power": 0,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "speed": {
+          "chance": 100,
+          "amount": -2
+        }
+      }
+    }
+  },
+  "Iron Defence": {
+    "type": "Steel",
+    "power": 0,
+    "accuracy": -1,
+    "pp": 15,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "defence": {
+          "chance": 100,
+          "amount": 2
+        }
+      }
+    }
+  },
+  "Bullet Punch": {
+    "type": "Steel",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 1,
+    "effects": {}
+  },
+  "Agility": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": -1,
+    "pp": 30,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "speed": {
+          "chance": 100,
+          "amount": 2
+        }
+      }
+    }
+  },
+  "Disarming Voice": {
+    "type": "Fairy",
+    "power": 40,
+    "accuracy": -1,
+    "pp": 15,
+    "priority": 0,
+    "effects": {}
+  },
+  "Fairy Wind": {
+    "type": "Fairy",
+    "power": 40,
+    "accuracy": 100,
+    "pp": 30,
+    "priority": 0,
+    "effects": {}
+  },
+  "Swift": {
+    "type": "Normal",
+    "power": 60,
+    "accuracy": -1,
+    "pp": 20,
+    "priority": 0,
+    "effects": {}
+  },
+  "Moonblast": {
+    "type": "Fairy",
+    "power": 95,
+    "accuracy": 100,
+    "pp": 15,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "sp-attack": {
+          "chance": 30,
+          "amount": -1
+        }
+      }
+    }
+  },
+  "Mud Shot": {
+    "type": "Ground",
+    "power": 55,
+    "accuracy": 95,
+    "pp": 15,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "speed": {
+          "chance": 100,
+          "amount": -1
+        }
+      }
+    }
+  },
+  "Slash": {
+    "type": "Normal",
+    "power": 70,
+    "accuracy": 100,
+    "pp": 20,
+    "priority": 0,
+    "effects": {}
+  },
+  "Bulk Up": {
+    "type": "Fighting",
+    "power": 0,
+    "accuracy": -1,
+    "pp": 20,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "attack": {
+          "chance": 100,
+          "amount": 1
+        },
+        "defence": {
+          "chance": 100,
+          "amount": 1
+        }
+      }
+    }
+  },
+  "Earthquake": {
+    "type": "Ground",
+    "power": 100,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effects": {}
+  },
+  "Fire Blast": {
+    "type": "Fire",
+    "power": 110,
+    "accuracy": 85,
+    "pp": 5,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "burn": {
+          "chance": 10
+        }
+      }
+    }
+  },
+  "Magical Leaf": {
+    "type": "Grass",
+    "power": 60,
+    "accuracy": -1,
+    "pp": 20,
+    "priority": 0,
+    "effects": {}
+  },
+  "Calm Mind": {
+    "type": "Psychic",
+    "power": 0,
+    "accuracy": -1,
+    "pp": 20,
+    "priority": 0,
+    "effects": {
+      "user": {
+        "sp-attack": {
+          "chance": 100,
+          "amount": 1
+        },
+        "sp-defence": {
+          "chance": 100,
+          "amount": 1
+        }
+      }
+    }
+  },
+  "Psychic": {
+    "type": "Psychic",
+    "power": 90,
+    "accuracy": 100,
+    "pp": 10,
+    "priority": 0,
+    "effects": {
+      "target": {
+        "sp-defence": {
+          "chance": 10,
+          "amount": -1
+        }
+      }
+    }
+  }
+}
